@@ -1,6 +1,6 @@
 {
   "name": "nomocas-utils",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "collection of small and atomic js utilities",
   "main": "index.js",
   "scripts": {
@@ -25,5 +25,7 @@
   "bugs": {
     "url": "https://github.com/nomocas/nomocas-utils/issues"
   },
-  "homepage": "https://github.com/nomocas/nomocas-utils#readme"
+  "homepage": "https://github.com/nomocas/nomocas-utils#readme",
+  "devDependencies": {},
+  "dependencies": {}
 }
