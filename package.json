@@ -1,31 +1,34 @@
 {
-  "name": "nomocas-utils",
-  "version": "0.3.1",
-  "description": "collection of small and atomic js utilities",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nomocas/nomocas-utils.git"
-  },
-  "keywords": [
-    "web-utils",
-    "url-parser",
-    "querystring-parser",
-    "uploader",
-    "breakpoint",
-    "image-previewer",
-    "scrollspy",
-    "user-agent"
-  ],
-  "author": "Gilles Coomans",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/nomocas/nomocas-utils/issues"
-  },
-  "homepage": "https://github.com/nomocas/nomocas-utils#readme",
-  "devDependencies": {},
-  "dependencies": {}
+	"name": "nomocas-utils",
+	"version": "0.3.1",
+	"description": "collection of small and atomic js utilities",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nomocas/nomocas-utils.git"
+	},
+	"keywords": [
+		"web-utils",
+		"url-parser",
+		"querystring-parser",
+		"uploader",
+		"breakpoint",
+		"image-previewer",
+		"scrollspy",
+		"user-agent"
+	],
+	"author": "Gilles Coomans",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/nomocas/nomocas-utils/issues"
+	},
+	"homepage": "https://github.com/nomocas/nomocas-utils#readme",
+	"devDependencies": {},
+	"dependencies": {
+		"debug": "*"
+	}
 }
+
